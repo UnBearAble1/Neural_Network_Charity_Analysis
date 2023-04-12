@@ -33,4 +33,4 @@ This analysis looked at the key metadata for over 34,000 organizations that rece
 
 ## Summary
 
-Overall, the machine learning model did not achieve above a 75% accuracy and was not able to provide insight into predicting which groups would be able to successfully spend their funding amounts in the future. For ny future analysis, I would recommend having more data points that can be included or potentially reducing some of the features and eliminating noise that might be confusing the results.
+Overall, the machine learning model did not achieve above a 75% accuracy and was not able to provide insight into predicting which groups would be able to successfully spend their funding amounts in the future. For future analysis, I would recommend having more data points that can be included or potentially reducing some of the features and eliminating noise that might be confusing the results.
