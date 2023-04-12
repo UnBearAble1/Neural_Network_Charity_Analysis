@@ -11,7 +11,7 @@ This analysis looked at the key metadata for over 34,000 organizations that rece
 * As mentioned above, the target variable for this analysis is if they are successful, as represented by "IS_SUCCESSFUL" on the dataset
 
 * The targets that are features include the following:
-*   Alphabet Soup application type
+  *   Alphabet Soup application type
 ** Affiliated sector of industry
 ** Government organization classification
 ** Use case for funding
