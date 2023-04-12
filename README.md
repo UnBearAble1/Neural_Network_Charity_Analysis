@@ -11,15 +11,15 @@ This analysis looked at the key metadata for over 34,000 organizations that rece
 * As mentioned above, the target variable for this analysis is if they are successful, as represented by "IS_SUCCESSFUL" on the dataset
 
 * The targets that are features include the following:
-  *   Alphabet Soup application type
-** Affiliated sector of industry
-** Government organization classification
-** Use case for funding
-** Organization type
-** Active status
-** Income classification
-** Special consideration for application, and
-** Funding amount requested
+  * Alphabet Soup application type
+  * Affiliated sector of industry
+  * Government organization classification
+  * Use case for funding
+  * Organization type
+  * Active status
+  * Income classification
+  * Special consideration for application, and
+  * Funding amount requested
 
 * The targets that are neither targets nor features and should be removed from the input data are EIN and NAME identification columns
 
